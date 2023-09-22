@@ -4,23 +4,23 @@
 // En los siguientes ejercicios deberás reemplazar el valor null
 // por el correspondiente.
 
-// Crea una variable de tipo string.
-const nuevoString = null;
+// 1 Crea una variable de tipo string.
+const nuevoString = "null";
 
-// Crea una variable de tipo number.
-const nuevoNumero = null;
+// 2 Crea una variable de tipo number.
+const nuevoNumero = 9;
 
-// Crea una variable de tipo boolean.
-const nuevoBoolean = null;
+// 3 Crea una variable de tipo boolean.
+const nuevoBoolean = true;
 
-// Resuelve el siguiente problema matemático.
-const nuevaResta = 10 - null === 3;
+// 4 Resuelve el siguiente problema matemático.
+const nuevaResta = 10 - 7 === 3;
 
-// Resuelve el siguiente problema matemático.
-const nuevaMultiplicacion = 10 * null === 40;
+// 5 Resuelve el siguiente problema matemático.
+const nuevaMultiplicacion = 10 * 4 === 40;
 
-// Resuelve el siguiente problema matemático.
-const nuevoModulo = 21 % 5 === null;
+// 6 Resuelve el siguiente problema matemático.
+const nuevoModulo = 21 % 5 === 1;
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
 module.exports = {
